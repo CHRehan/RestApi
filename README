@@ -1,4 +1,10 @@
 This is your new Play 2.0 application
 =====================================
 
-This file will be packaged with your application, when using `play dist`.
+This file will be packaged with your application, when using play 2.0 Java
+
+Install Play 2.0 Java from this link (https://www.playframework.com/documentation/2.0/Installing)
+
+Run this program using this command
+Play run
+Test all the crud points using https://localhost:9000/
