@@ -1,0 +1,9 @@
+2015-07-10 12:28:02,748 - [INFO] - from play in main 
+Listening for HTTP on port 9000...
+
+2015-07-10 12:28:21,484 - [INFO] - from play in play-akka.actor.default-dispatcher-1 
+database [default] connected at jdbc:mysql://localhost/crudapp
+
+2015-07-10 12:28:25,833 - [INFO] - from play in play-akka.actor.default-dispatcher-1 
+Application started (Dev)
+
